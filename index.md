@@ -43,6 +43,4 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 ![monkey2](https://github.com/Purdue-CS193/homework-0-ColeMargolin/assets/142946603/61c30368-50ed-4fbe-ab2e-739951663172)
 
-monkey
-
 # 
