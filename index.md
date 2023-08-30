@@ -1,3 +1,7 @@
+# Cole Margolin's First CS193 Homework
+- Learning about the terminal and Github provides me with knowledge I didn't know (as compared to the basics of programming in CS180)
+- This is also my most enjoyable and laid-back class
+- I can include monkey gifs in my homework assignments
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
@@ -38,3 +42,4 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 ![monkey2](https://github.com/Purdue-CS193/homework-0-ColeMargolin/assets/142946603/61c30368-50ed-4fbe-ab2e-739951663172)
 
+# 
